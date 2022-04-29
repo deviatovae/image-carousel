@@ -78,6 +78,9 @@ body, html {
     margin: 0 1px;
     cursor: pointer;
 }
+.dot:hover {
+    background-color: #717171;
+}
 .dot.active {
   background-color: #717171;
 }
